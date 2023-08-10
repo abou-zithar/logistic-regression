@@ -1,4 +1,5 @@
-# Employee Retention Analysis - HR Analytics
+#logistic-regression
+## Employee Retention Analysis - HR Analytics
 This README file explains the Python code that performs employee retention analysis using HR Analytics data downloaded from Kaggle. The code covers data exploration, visualization, and building a predictive model to analyze factors that influence employee retention.
 
 ## Dataset
